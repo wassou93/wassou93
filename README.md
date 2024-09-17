@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Hewlet Packard Enterprise
+- 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: Email (was.akkari@gmail.com)
